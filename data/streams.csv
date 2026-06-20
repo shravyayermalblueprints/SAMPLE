@@ -1,0 +1,7 @@
+log_id,user_id,stream_duration_mins,device_type
+1,101,120.5,Mobile
+2,102,45.0,Desktop
+3,103,,Mobile
+4,104,300.2,TV
+5,106,15.0,Mobile
+6,101,60.0,TV
